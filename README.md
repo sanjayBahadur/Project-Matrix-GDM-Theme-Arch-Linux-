@@ -15,7 +15,7 @@ A fully automated, plug-and-play Matrix-themed GDM and Plymouth installer for Ar
 
 ## 🚀 Installation
 ```bash
-git clone https://github.com/yourname/project_matrix.git
+git clone https://github.com/sanjayBahadur/Project-Matrix-GDM-Theme-Arch-Linux-.git
 cd project_matrix
 sudo ./install.sh --install
 ```
